@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">NewsApp</string>
+
+    <!-- Строки для BottomNavigationView. -->
+    <string name="home_screen">Home</string>
+    <string name="bookmarks_screen">Bookmarks</string>
+
+    <!-- Строки для TabLayout. -->
+    <string name="top_headlines">Top Headlines</string>
+    <string name="category_business">Business</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_health">Health</string>
+    <string name="category_science">Science</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_technology">Technology</string>
+
+    <!-- Строки для Bookmarks. -->
+    <string name="bookmarks_title">Bookmarks</string>
+    <string name="no_bookmarks">You have no Bookmarks yet</string>
+    <string name="add_to_bookmarks">Add to Bookmarks</string>
+    <string name="news_already_in_bookmarks">You have already added this news to Bookmarks</string>
+    <string name="news_was_added_to_bookmarks">News was added to Bookmarks</string>
+    <string name="news_was_removed_from_bookmarks">News was removed from Bookmarks</string>
+
+    <!-- Строки для Detailed news info fragment. -->
+    <string name="detailed_news_toolbar_title">Detailed news information</string>
+    <string name="source">Source</string>
+    <string name="author">Author</string>
+
+    <string name="dots">.....</string>
+    <string name="try_again">Try again</string>
+
+</resources>
